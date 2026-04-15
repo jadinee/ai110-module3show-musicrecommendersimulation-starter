@@ -79,4 +79,3 @@ You can add more tests in `tests/test_recommender.py`.
 Building this helped me understand how recommendation systems turn simple data into a score and then rank results. Even with just a few features like genre, mood, and energy, the system can still make reasonable suggestions.
 
 It also showed how bias can happen easily. The system tends to repeat similar songs and doesn’t give much variety, which could lead to a filter bubble. The results depend a lot on the user input, so some genres or styles can be overrepresented.
----
